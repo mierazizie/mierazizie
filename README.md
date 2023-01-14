@@ -1,5 +1,6 @@
 ### Hi there Amira here, I'm new to this things👋
 
+![](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
 
 **mierazizie/mierazizie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
